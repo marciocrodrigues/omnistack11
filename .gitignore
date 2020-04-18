@@ -1,2 +1,19 @@
 /BACKEND/node_modules
 /FRONTEND/node_modules
+/MOBILE/node_modules
+
+
+/MOBILE/.expo/*
+/MOBILE/npm-debug.*
+/MOBILE/*.jks
+/MOBILE/*.p8
+/MOBILE/*.p12
+/MOBILE/*.key
+/MOBILE/*.mobileprovision
+/MOBILE/*.orig.*
+/MOBILE/web-build/
+/MOBILE/web-report/
+/MOBILE/node_modules
+
+# macOS
+/MOBILE/DS_Store
