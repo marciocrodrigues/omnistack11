@@ -11,7 +11,6 @@ module.exports = {
             value,
             ong_id
         });
-
         return res.json({id});
     },
 

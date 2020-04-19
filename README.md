@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project created in the week omnistack 11, backend made in node, web interface made in ReactJs and mobile in React Native.<br />
 
 ## Available Scripts (Project FRONTEND)
 
@@ -23,19 +23,29 @@ Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Your app is ready to be deployed!<br />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-Projeto criado na semana omnistack 11, backend feito em node, interface web em ReactJS e mobile em React Native.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.<br />
 
 
 ## Available Scripts from Api with node (Project BACKEND)
+
+In the project directory, you can run:
 
 ### `npm start`
 
 Starts Api at door 3333 (http://localhost:3333).<br />
 
 
-## Availabre Scripts from Mobile with React Native (Project)
+## Availabre Scripts from Mobile with React Native (Project MOBILE)
 
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app mobile in the development mode.<br />
+Open [http://localhost:19002] to view it in the browser.
+
+Install Expo in Phone for test, use QR Code for open o App.<br />
+
+The App will reload if you make edits.
